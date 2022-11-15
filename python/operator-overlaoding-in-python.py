@@ -17,6 +17,3 @@ ob4 = A("company")
 print(ob1 + ob2)
 print(ob3 + ob4)
 
-#And can also be Understand as :
-print(ob1.__add__(ob2))
-print(ob3.__add__(ob4))
