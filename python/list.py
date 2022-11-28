@@ -1,2 +1,5 @@
 thislist = ["java", "html", "python"]
-print(thislist)
+#print(thislist)
+purchases = pd.DataFrame(thislist)
+
+print(purchases)
